@@ -1,4 +1,4 @@
-# Application Name: NodeJS Interview Challenge
+# Application Name: NodeJS
 
 # How to run nodejs application
 <p>copy server.js, package.json file and assets folder into your node_test project folder,</p>
